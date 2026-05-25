@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Gemini-AI-orange?style=for-the-badge&logo=google" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-black?style=for-the-badge" />
 </p>
 
 <p align="center">
